@@ -6,10 +6,10 @@ A Flutter project for Image Labelling.
 
 This project covers how to add image labelling in flutter application using google ml kit. It also covers necessary configuration for android & ios.
 
-##Dependency
+## Dependencies
 
-	[google_mlkit_image_labeling](https://pub.dev/packages/google_mlkit_image_labeling)
-	[image_picker](https://pub.dev/packages/image_picker)
+[google_mlkit_image_labeling](https://pub.dev/packages/google_mlkit_image_labeling)
+[image_picker](https://pub.dev/packages/image_picker)
 	
 ##
 
