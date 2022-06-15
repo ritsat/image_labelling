@@ -9,6 +9,7 @@ This project covers how to add image labelling in flutter application using goog
 ## Dependencies
 
 [google_mlkit_image_labeling](https://pub.dev/packages/google_mlkit_image_labeling)
+
 [image_picker](https://pub.dev/packages/image_picker)
 	
 ##
