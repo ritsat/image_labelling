@@ -14,6 +14,6 @@ This project covers how to add image labelling in flutter application using goog
 	
 ##
 
-Watch below [Youtube](https://www.youtube.com/watch?v=UaFKYIoL8Lo) video for the code walkthrough,
+Watch below [Youtube](https://www.youtube.com/watch?v=PeXtr_5hgC4) video for the code walkthrough,
 
-[![Image_labelling](https://img.youtube.com/vi/UaFKYIoL8Lo/0.jpg)](https://www.youtube.com/watch?v=UaFKYIoL8Lo)
+[![Image_labelling](https://img.youtube.com/vi/PeXtr_5hgC4/0.jpg)](https://www.youtube.com/watch?v=PeXtr_5hgC4)
