@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "762138263212",
+    "project_number": "34234234234",
     "project_id": "imagelabelproject-23218",
     "storage_bucket": "imagelabelproject-23218.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:762138263212:android:828964b516875731f5659f",
+        "mobilesdk_app_id": "1:34234234234:android:828964b516875731f5659f",
         "android_client_info": {
           "package_name": "com.example.image_labelling"
         }
       },
       "oauth_client": [
         {
-          "client_id": "762138263212-ui8imq01dg2knbdjitmku4l34532il9f.apps.googleusercontent.com",
+          "client_id": "34234234234-ui8imq01dg2knbdjitmku4l34532il9f.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDPi63otRIu8iDrK8rhaNq1OxP9vL12345"
+          "current_key": "APP_KEY_HERE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "762138263212-ui8imq01dg2knbdjitmku4l34532il9f.apps.googleusercontent.com",
+              "client_id": "34234234234-ui8imq01dg2knbdjitmku4l34532il9f.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
